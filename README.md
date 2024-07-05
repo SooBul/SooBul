@@ -1,7 +1,8 @@
 # 💫About Me :
-🔭 I’m currently working on HCMUS
-🌱 I’m currently learning Data Science
+🔭 I’m currently working on HCMUS. I am a student of mathematics and information science, majoring in data science. I have skills in mathematics, programming, and analytics.
+
 📫 How to reach me:  ngoctu0984339401@gmail.com
+
 ⚡ Fun fact: I really want to be a data analyst
 
 ## 🌐Socials
